@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 var request = require('request');
 var mongoose = require('mongoose');
-var apiKey= '38f1b7aac6db6c8b399d7846d88b0e88';
+var apiKey= //Your API key from the movie DB API;
 var MovieModel = require('../models/movies');
 
 router.get('/', function(req, res, next) {
