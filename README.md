@@ -1,7 +1,7 @@
 # mymoviz
 A simple movie plateform to check out the latest movies
 
-Go **[here](https://gentle-headland-37730.herokuapp.com/)** for live demo.
+Go **[here](https://harry-chalcraft-mymoviz.herokuapp.com/)** for live demo.
 
 This is a fun project to work on when learning ReactJS.
 
