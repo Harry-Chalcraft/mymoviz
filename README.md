@@ -1,8 +1,6 @@
 # mymoviz
 A simple movie plateform to check out the latest movies
 
-Go **[here](https://harry-chalcraft-mymoviz.herokuapp.com/)** for live demo.
-
 This is a fun project to work on when learning ReactJS.
 
 It only has 2 components App.js and it's child Movie.js, which requires being familiar with data flow and reverse data flow.
